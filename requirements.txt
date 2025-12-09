@@ -1,0 +1,35 @@
+# Core Dependencies
+openai>=1.0.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+httpx>=0.25.0
+aiohttp>=3.9.0
+
+# Web Scraping and Validation
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Academic APIs
+scholarly>=1.7.0
+crossref-commons>=0.0.7
+
+# CLI and Utilities
+click>=8.1.0
+rich>=13.0.0
+pydantic>=2.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# Async Support
+asyncio-throttle>=1.0.0
+
+# GUI Framework
+customtkinter>=5.2.0
+Pillow>=10.0.0
+
+# Document Export
+python-docx>=0.8.11
